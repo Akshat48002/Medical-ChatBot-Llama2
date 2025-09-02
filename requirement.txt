@@ -1,5 +1,5 @@
 ctransformers
-sentence-transformer
-pincone
+sentence-transformers
+pinecone
 langchain
 flask
